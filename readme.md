@@ -603,6 +603,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Pavel Miroshenko](https://pavel.miroshnichen.co/)
 - [Steve Pavlina](https://www.stevepavlina.com/blog/)
 - [Today I Learned](https://til.hashrocket.com/)
+- [Anton Grishin](https://alchemmist.xyz?utm_source=github)
 
 ## Related
 
