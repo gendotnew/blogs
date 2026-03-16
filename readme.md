@@ -570,6 +570,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Startechery](https://stratechery.com/)
 - [Tech Specs](https://techspecs.blog/)
+- [Toni Notes](https://toninotes.cc/) - Practical essays on digital publishing, creator workflows, useful tools, and sustainable online work.
 
 ## V8 Engine
 
