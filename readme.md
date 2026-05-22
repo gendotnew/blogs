@@ -502,6 +502,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Brent Vatne](http://brentvatne.ca/)
 - [Build with React](http://buildwithreact.com/)
+- [Parish Khan](https://parish.cv/) - Notes on React, TypeScript, and frontend architecture.
 
 ## Reverse Engineering
 
