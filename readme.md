@@ -489,6 +489,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Xero](http://blog.xero.nu/)
 - [Zachary Voase](http://zacharyvoase.com/)
 - [Александр Субботин](https://blog.asubbotin.ru/)
+- [Timoshinoleg's Dev Blog](https://timoshinoleg-eng.github.io/blog/) - Software engineering blog
 
 ## Python
 
