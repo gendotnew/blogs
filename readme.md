@@ -443,6 +443,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Marius Schulz](https://blog.mariusschulz.com/)
 - [Mark J. Nelson](http://www.kmjn.org/notes/)
 - [Mark Scholten](https://www.mpscholten.de/)
+- [Matt Coles](https://coles.codes/) - Hands-on engineering — Python, AI agents, local LLMs, homelab, and AWS CDK.
 - [Matthias Endler](https://matthias-endler.de/)
 - [Michael Parker](http://omgitsmgp.com/)
 - [Mike Bostock](https://bost.ocks.org/mike/)
